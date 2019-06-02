@@ -1,5 +1,5 @@
 ---
-title: "Gatsby Crash Course"
+title: "Gatsby"
 date: "2019-04-04"
 ---
 
