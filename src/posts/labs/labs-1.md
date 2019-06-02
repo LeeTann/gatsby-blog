@@ -1,5 +1,5 @@
 ---
-title: "Labs-Sprit-1"
+title: "Labs-Sprint-1"
 date: "2019-05-18"
 ---
 
